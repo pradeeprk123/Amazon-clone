@@ -1,2 +1,2 @@
 # Amazon-clone
-It is basic hyml, css based web project of amazon home page.
+It is a basic html, css based web project of amazon home page.
